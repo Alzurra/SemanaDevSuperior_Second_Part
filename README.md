@@ -1,6 +1,6 @@
 # SemanaDevSuperior_Second_Part
 
-<h4>BackEnd of the project Semana Spring Reaxt</h4>
+<h4>BackEnd of the project Semana Spring React</h4>
 
 <div>
 
